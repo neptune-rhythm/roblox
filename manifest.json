@@ -1,0 +1,20 @@
+{
+  "name": "Roblox Player",
+  "short_name": "Roblox Player",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "roblox.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "roblox.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
